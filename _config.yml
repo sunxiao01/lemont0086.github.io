@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zuoandroid.github.io/
+url: https://lemont0086.github.io
 date_format: "ordinal"
 title: Sasuke
-subtitle: "不忘初心 方得始终"
+subtitle: "内心火热的大炳哥"
 description: "Sasuke的个人博客"
 keywords: Sasuke, Wen Bin, Python, Spider
 timezone: Asia/Shanghai
