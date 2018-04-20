@@ -4,10 +4,10 @@
 baseurl:
 url: https://lemont0086.github.io
 date_format: "ordinal"
-title: Sasuke
+title: Beyond
 subtitle: "内心火热的大炳哥"
-description: "Sasuke的个人博客"
-keywords: Sasuke, Wen Bin, Python, Spider
+description: "Beyond的个人博客"
+keywords: Beyond, Bing Yao, Dabingge,Python, Spider
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: WenBin
+author: DaBingGe
 # organization: zkh360.com
 # organization_url: http://www.zkh360.com
-github_username: zuoandroid
+github_username: lemont0086
 location: BeiJing, China
-email: wenbin@gmail.com
+email: lemont0086@163.com
 
 # ---------------- #
 #    Navigation    #
